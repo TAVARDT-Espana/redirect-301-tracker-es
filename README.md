@@ -5,7 +5,7 @@
 
 Auditoria de cadenas de redireccion, deteccion de bucles infinitos y conservacion de PageRank en Espana.
 
-Desarrollado y mantenido por la division de ingenieria web y optimizacion de rastreo de **TAVARDT Espana**.
+Desarrollado y mantenido por la division de ingenieria web y optimizacion de rastreo de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python redirect_tracker.py https://empresa.es -json
 Para revision profunda de cadenas de redireccion:
 
 * **Verificador de Redirecciones 301 Oficial**
-* **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
 
 ***
 
 ## Consultoria en Migraciones y SEO Tecnico
 
-Para migraciones seguras y conservacion de trafico bajo directrices de Estandares W3C y Directrices IETF RFC 9110, consulte al equipo de **TAVARDT Espana**.
+Para migraciones seguras y conservacion de trafico bajo directrices de Estandares W3C y Directrices IETF RFC 9110, consulte al equipo de **TAVARDT**.
 
 ***
 
