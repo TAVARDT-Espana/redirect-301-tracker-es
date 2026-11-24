@@ -49,3 +49,7 @@ Para revision profunda de cadenas de redireccion:
 ## Consultoria en Migraciones y SEO Tecnico
 
 Para migraciones seguras y conservacion de trafico bajo directrices de Estandares W3C y Directrices IETF RFC 9110, consulte al equipo de **TAVARDT Espana**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
